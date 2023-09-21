@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\build\SurfaceFrameworkCmake_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\MainViewerWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\MeshParamWidget.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\main.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\surfacemeshprocessing.cpp">
+      <Filter>GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\InteractiveViewerWidget.cpp">
+      <Filter>MeshViewer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\MeshViewerWidget.cpp">
+      <Filter>MeshViewer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\QGLViewerWidget.cpp">
+      <Filter>MeshViewer</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\PolyMesh\IOManger.cpp">
+      <Filter>PolyMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\PolyMesh\PolyMesh.cpp">
+      <Filter>PolyMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\PolyMesh\PolyMeshIterators.cpp">
+      <Filter>PolyMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\src\PolyMesh\PolyMesh_Base.cpp">
+      <Filter>PolyMesh</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\build\qrc_surfacemeshprocessing.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\codes\c++\surface_framework_cmake\build\SurfaceFrameworkCmake_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\MainViewerWidget.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\MeshParamWidget.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\c++\surface_framework_cmake\src\surfacemeshprocessing.h">
+      <Filter>GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\InteractiveViewerWidget.h">
+      <Filter>MeshViewer</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\MeshViewerWidget.h">
+      <Filter>MeshViewer</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\codes\c++\surface_framework_cmake\src\MeshViewer\QGLViewerWidget.h">
+      <Filter>MeshViewer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\codes\c++\surface_framework_cmake\src\surfacemeshprocessing.qrc" />
+    <CustomBuild Include="E:\codes\c++\surface_framework_cmake\Cmakelists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GUI">
+      <UniqueIdentifier>{9EAB9950-D3CF-342E-9E7D-88972BC2954C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MeshViewer">
+      <UniqueIdentifier>{2AD9EC99-5FE2-39AA-BF87-336ABBBAC636}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PolyMesh">
+      <UniqueIdentifier>{B96F3361-0B63-30A7-AAA7-B1282ACA7D6D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FF6DB00B-4DA5-3059-91EA-FB67A5F5A3E0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
